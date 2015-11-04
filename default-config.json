@@ -1,6 +1,5 @@
 {
 	"mongoAppDb"        : {
-		"host" : "localhost",
-		"db"   : "app-db"
+		"conn_str": "mongodb://username:password@host:port/database_name"
 	}
 }
